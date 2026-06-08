@@ -1,6 +1,6 @@
 # Hi 👋, I'm Skippy
 
-### Just a random guy
+### Im a beginer to the world of coding
 
 - 🌱 I'm currently learning **python and C#**
 

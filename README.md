@@ -4,9 +4,9 @@
 
 - 🌱 I'm currently learning **python and C#**
 
-- 💬 Ask me about **everything**
+- 💬 Ask me about **anything**
 
-- ⚡ Fun fact **idk bru**
+- 🇫🇷 Im **French**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
